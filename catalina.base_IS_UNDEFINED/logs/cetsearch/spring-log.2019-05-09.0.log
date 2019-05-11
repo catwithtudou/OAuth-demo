@@ -1,0 +1,38 @@
+15:49:13.228 [main] INFO  r.r.homework_5.Homework5Application - Starting Homework5Application on DESKTOP-7DF8QLC with PID 5232 (E:\code\java\homework_5\target\classes started by tudou in E:\code\java\homework_5)
+15:49:13.229 [main] INFO  r.r.homework_5.Homework5Application - No active profile set, falling back to default profiles: default
+15:49:14.317 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+15:49:14.329 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+15:49:14.345 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+15:49:14.345 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.17]
+15:49:14.453 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+15:49:14.453 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1149 ms
+15:49:14.546 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+15:49:14.694 [main] INFO  c.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+15:49:14.960 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+15:49:15.067 [main] WARN  o.t.templatemode.TemplateMode - [THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+15:49:15.141 [main] INFO  o.s.s.c.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+15:49:15.191 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+15:49:15.208 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+15:49:15.216 [main] INFO  r.r.homework_5.Homework5Application - Started Homework5Application in 2.498 seconds (JVM running for 3.442)
+15:50:06.064 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+15:50:06.065 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+15:50:06.070 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+15:50:44.363 [main] INFO  r.r.homework_5.Homework5Application - Starting Homework5Application on DESKTOP-7DF8QLC with PID 13128 (E:\code\java\homework_5\target\classes started by tudou in E:\code\java\homework_5)
+15:50:44.365 [main] INFO  r.r.homework_5.Homework5Application - No active profile set, falling back to default profiles: default
+15:50:45.281 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+15:50:45.302 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+15:50:45.319 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+15:50:45.319 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.17]
+15:50:45.408 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+15:50:45.408 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1011 ms
+15:50:45.477 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+15:50:45.576 [main] INFO  c.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+15:50:45.809 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+15:50:45.897 [main] WARN  o.t.templatemode.TemplateMode - [THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+15:50:45.977 [main] INFO  o.s.s.c.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+15:50:46.028 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+15:50:46.052 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+15:50:46.055 [main] INFO  r.r.homework_5.Homework5Application - Started Homework5Application in 1.97 seconds (JVM running for 2.391)
+15:50:50.759 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+15:50:50.760 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+15:50:50.764 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
